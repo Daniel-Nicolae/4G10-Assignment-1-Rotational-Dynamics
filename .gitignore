@@ -1,0 +1,5 @@
+# handout and other documents
+*.pdf
+
+# cache
+__pycache__
